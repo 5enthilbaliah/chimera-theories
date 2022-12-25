@@ -1,0 +1,3 @@
+[submodule "cs-chimera-theories"]
+	path = cs-chimera-theories
+	url = https://github.com/5enthilbaliah/cs-chimera-theories.git
